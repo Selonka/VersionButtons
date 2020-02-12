@@ -6,5 +6,5 @@ A Mantis plugin to mirror "add Version" and "add version and edit" buttons to th
 Screenshots
 -----------
 
-![alt text](doc/VersionButtons.png)
+![alt text](doc/VersionButtons.PNG)
 
